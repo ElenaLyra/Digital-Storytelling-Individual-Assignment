@@ -3,7 +3,7 @@
 ### First and Last Name: Λύρα Ελένη Αποστολία 
 ### University Registration Number: dpsd19068
 ### GitHub Personal Profile: https://github.com/ElenaLyra
-### Digital-Storytelling-Individual-Assignment: xxx
+### Digital-Storytelling-Individual-Assignment: https://github.com/ElenaLyra/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
