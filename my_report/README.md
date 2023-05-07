@@ -39,9 +39,10 @@
 
 
 # 2nd Deliverable
-Aρχικά έφτιαξα τα virtual camera shots που ζητήθηκαν και συμπεριέλαβα ένα blended shot ανάμεσα σε δύο virtual cameras.
+Aρχικά έφτιαξα τα virtual camera shots που ζητήθηκαν και συμπεριέλαβα ένα blended shot ανάμεσα σε δύο virtual cameras ακολουθόντας το tutorial.Στην συνέχια διέγραψα όλο τον φωτισμό που υπήρχε στην αρχή, προσθέτοντας τον δικό μου φωτισμό ρυθμίζοντας το color grating , πρόσθεσα ομίχλη και έφτιαξα το depth-of-field σε κάθε κάμερα ξεχωριστά.
 ![11](https://user-images.githubusercontent.com/100956158/236689662-2fd46a15-bb8e-4a60-96ba-d3000412e9cc.png)
 ![13](https://user-images.githubusercontent.com/100956158/236689688-cef8aafe-2231-4237-a0cb-33f5ad6cce02.png)
+Έπαιξα με το light explorer για να δείξω ότι χάλασε το μηχάνημα κλείνοντας τα led και βάζοντας καπνό να βγαίνει από αυτό,όπως φαίνεται στις παρακάτω φωτογραφίες   
 ![14](https://user-images.githubusercontent.com/100956158/236689701-35e1af5e-4183-4c8e-b1da-bd3a0fcc9cd1.png)
 ![15](https://user-images.githubusercontent.com/100956158/236689718-65ffb9ba-c8b0-46f0-9545-dc732631a661.png)
 ![16](https://user-images.githubusercontent.com/100956158/236689724-0d7a6680-e376-4a52-b038-e66df7600f36.png)
