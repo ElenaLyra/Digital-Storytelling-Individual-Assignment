@@ -39,6 +39,11 @@
 
 
 # 2nd Deliverable
+![11](https://user-images.githubusercontent.com/100956158/236689662-2fd46a15-bb8e-4a60-96ba-d3000412e9cc.png)
+![13](https://user-images.githubusercontent.com/100956158/236689688-cef8aafe-2231-4237-a0cb-33f5ad6cce02.png)
+![14](https://user-images.githubusercontent.com/100956158/236689701-35e1af5e-4183-4c8e-b1da-bd3a0fcc9cd1.png)
+![15](https://user-images.githubusercontent.com/100956158/236689718-65ffb9ba-c8b0-46f0-9545-dc732631a661.png)
+![16](https://user-images.githubusercontent.com/100956158/236689724-0d7a6680-e376-4a52-b038-e66df7600f36.png)
 
 
 # 3rd Deliverable 
