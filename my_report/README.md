@@ -39,6 +39,7 @@
 
 
 # 2nd Deliverable
+Aρχικά έφτιαξα τα virtual camera shots που ζητήθηκαν και συμπεριέλαβα ένα blended shot ανάμεσα σε δύο virtual cameras.
 ![11](https://user-images.githubusercontent.com/100956158/236689662-2fd46a15-bb8e-4a60-96ba-d3000412e9cc.png)
 ![13](https://user-images.githubusercontent.com/100956158/236689688-cef8aafe-2231-4237-a0cb-33f5ad6cce02.png)
 ![14](https://user-images.githubusercontent.com/100956158/236689701-35e1af5e-4183-4c8e-b1da-bd3a0fcc9cd1.png)
